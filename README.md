@@ -1,6 +1,9 @@
 # Gear-Up-
 
 
+# It is illegal to copy the game code or modify
+
+
 # You can download it from the GitHub release page or this website 
 
 
