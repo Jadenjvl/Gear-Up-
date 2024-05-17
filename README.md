@@ -12,7 +12,7 @@ https://jadyennbt.github.io/Gear-Up-official-download-website/
 
 
 
-# The game has 200 missions in 100 side missions in 300 cars
+# The game has 200 missions in 100 side missions in 400 cars
 
 # update log
 -
